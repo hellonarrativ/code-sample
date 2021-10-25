@@ -123,3 +123,7 @@ const Register: NextPage = () => {
 };
 
 export default Register;
+
+// Problem #2: Fix a Broken Registration Form & Page
+// - fix all build, runtime, and syntactical errors found in this page
+// - if successful, redirect the user to the /dashboard page
